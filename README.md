@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: Containerregistry
-platforms: java
-author: yaohaizh
+extensions:
+- services: Containerregistry
+- platforms: java
 ---
 
-## Getting Started with Containerregistry - Manage Container Registry - in Java ##
+# Getting Started with Containerregistry - Manage Container Registry - in Java #
 
 
   Azure Container Registry sample for managing container registry.
