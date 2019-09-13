@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Containerregistry
-- platforms: java
+description: "Azure Container Registry sample for managing container registry."
+urlFragment: acr-java-manage-azure-container-registry
 ---
 
 # Getting Started with Containerregistry - Manage Container Registry - in Java #
