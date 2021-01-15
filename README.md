@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-  services: Containerregistry
-  platforms: java
+- services: Containerregistry
+- platforms: java
 ---
 
 # Getting Started with Containerregistry - Manage Container Registry - in Java #
